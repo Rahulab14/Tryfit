@@ -35,7 +35,7 @@ In the era of fast fashion, finding the "perfect fit" is often a challenge. TryF
 
 Explore the application live:
 
-- **Frontend Application:** [https://tryfit.netlify.app](https://tryfit.netlify.app)
+- **Frontend Application:** [https://try-fit.netlify.app](https://try-fit.netlify.app)
 - **Backend API:** [https://tryfit-backend.onrender.com](https://tryfit-backend.onrender.com)
 
 ---
